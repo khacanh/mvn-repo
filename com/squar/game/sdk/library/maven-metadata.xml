@@ -2,11 +2,12 @@
 <metadata>
   <groupId>com.squar.game.sdk</groupId>
   <artifactId>library</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <versioning>
     <versions>
       <version>1.0.4</version>
+      <version>1.0.5</version>
     </versions>
-    <lastUpdated>20140117143125</lastUpdated>
+    <lastUpdated>20140125120425</lastUpdated>
   </versioning>
 </metadata>
