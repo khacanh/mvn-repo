@@ -14,7 +14,7 @@ And you can use the artifacts like this:
 
     dependencies {
         compile 'com.dropbox.chooser:android:1.0.0'
-        compile 'com.facebook.android:facebook:3.6'
+        compile 'com.facebook.android:facebook:3.7'
 
         // compile 'com.actionbarsherlock:actionbarsherlock:4.3.1'
         // use this for ActionBarSherlock (org. MavenCentral):
